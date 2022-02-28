@@ -12,6 +12,11 @@
 - linkedIn - https://www.linkedin.com/in/dilipchandima/
 - facebook - https://www.facebook.com/dilip.chandima/
 ---
+### npm modules
+
+- rn-select-date-range https://www.npmjs.com/package/rn-select-date-range
+
+---
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
