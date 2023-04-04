@@ -8,7 +8,7 @@
 ---
 ### 🌐 &nbsp; You can find me around WWW 🌐
 
-- web - https://dilipchandima.github.io/
+- web - https://www.dilipchandima.com/
 - linkedIn - https://www.linkedin.com/in/dilipchandima/
 - facebook - https://www.facebook.com/dilip.chandima/
 ---
